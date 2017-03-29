@@ -1,4 +1,4 @@
-# Personal-Website
+# Samirai.io - (personal website)
 
 My personal website can be found here:
 www.samirai.io
